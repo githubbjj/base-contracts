@@ -1,0 +1,18 @@
+# Secrets
+.env
+
+# Build output (regenerate with scripts/compile.py)
+build/
+
+# Python
+__pycache__/
+*.pyc
+.pytest_cache/
+.venv/
+venv/
+
+# OS / editor
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
