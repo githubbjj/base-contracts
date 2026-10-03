@@ -45,7 +45,7 @@ Deployments are recorded in `deployments/<network>.json`.
 
 | Contract | Address |
 |---|---|
-| _none yet_ | |
+| Counter | 0x25c7643d31e765ec92ca970790dbbae31f37735f91cee370001ab94d7ba64e48 |
 
 ## License
 
