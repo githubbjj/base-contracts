@@ -1,0 +1,11 @@
+[
+  {
+    "contract": "Counter",
+    "address": "0xf0Adb5B1CF68d2F1aC1A8FBE554A57eb89113D77",
+    "tx": "0x25c7643d31e765ec92ca970790dbbae31f37735f91cee370001ab94d7ba64e48",
+    "block": 52116360,
+    "deployer": "0x2A22D8D14B15a32106A801fbaE6A0AD5101E386f",
+    "args": [],
+    "timestamp": 1791022064
+  }
+]
